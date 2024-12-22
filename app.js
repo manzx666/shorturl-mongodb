@@ -10,8 +10,8 @@ const express = require("express"),
     fetch = require("node-fetch"),
     mime = require("mime"),
     pug = require("pug"),
-    domain = "https://example.com",
-    pw = "admin123"
+    domain = "https://manz.news",
+    pw = "Aimanyuzhong@1"
 
 const app = express();
 const port = process.env.PORT || 3000;
